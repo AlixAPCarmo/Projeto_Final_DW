@@ -18,7 +18,6 @@
         /// </summary>
         public string Fotografia { get; set; }  
 
-        
 
     }
 
