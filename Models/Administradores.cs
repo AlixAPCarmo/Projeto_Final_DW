@@ -38,6 +38,8 @@
         /// </summary>
         public string CentrosdeDia { get; set; } //string ou outro tipo de var?
 
+
+        ///tabela dos centros de dia que os administradores têm acesso
     }
 
 
